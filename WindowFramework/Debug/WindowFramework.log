@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Mestaris\Desktop\Projects\WindowFramework\WindowFramework\CoreWindow.h(18,2): warning C4091:  'typedef ': ignored on left of 'Locatio' when no variable is declared
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\Mestaris\Desktop\Projects\WindowFramework\Debug\WindowFramework.exe : fatal error LNK1120: 1 unresolved externals
